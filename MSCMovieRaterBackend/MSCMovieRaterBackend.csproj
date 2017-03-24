@@ -238,6 +238,7 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Properties\PublishProfiles\MSCMovieRater - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\MSCMovieRaterBackend.pubxml" />
   </ItemGroup>
   <PropertyGroup>
